@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahdoophowe.elms.pro/sitemap.xml
